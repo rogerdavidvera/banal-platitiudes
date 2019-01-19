@@ -1,7 +1,7 @@
 # Banal Platitudes
 >A web app that generates images superimposed with only the most typical and tiresome banal platitudes from the English language.
 
-## Why? 
+## Why?
 
 In the latter half of 2018, my best friends Joaqy, Alex, and I all took a lot of L's.
 
@@ -28,14 +28,14 @@ In providing comfort to each other (because that's what best friends are for ❤
 
 This web app generates text superimposed over a generic, "inspirational" landscape image (think a beach at sunset or a mountain range with some clouds). The chosen text is a random selection of the most typical and tiresome banal platitudes that can be found on the web. You can generate as many images as you like - each with their own random banal platitude. You can share the image on Twitter, Instagram, Facebook, or download it to your computer or phone.
 
-Exhibit A: Image 
+Exhibit A: Image
 
 Feel free to share these with the world. It's all in your hands, but remember...
 
 >With great power comes great responsibility 🕷
 
 ## Features
-- [React](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+- [React](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - Responsive Design
 - Icons from [Font-Awesome](https://github.com/FortAwesome/Font-Awesome/)
 - Social sharing (Twitter, Instagram, Facebook)
