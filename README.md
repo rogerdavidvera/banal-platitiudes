@@ -1,4 +1,4 @@
-# banal-platitiudes
+# Banal Platitudes
 > An image generator that gives you only the most typical and tiresome banal platitudes.
 
 ## Why? 
