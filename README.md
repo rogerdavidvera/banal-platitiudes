@@ -1,5 +1,5 @@
 # Banal Platitudes
->An image generator that gives you only the most typical and tiresome banal platitudes from the English language.
+>A web app that generates images superimposed with only the most typical and tiresome banal platitudes from the English language.
 
 ## Why? 
 
