@@ -33,7 +33,7 @@ Feel free to share these with the world. It's all in your hands, but remember...
 ## Features
 - [React](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 - Responsive Design
-- Icons from [font-awesome](https://fontawesome.com/)
+- Icons from [Font-Awesome](https://github.com/FortAwesome/Font-Awesome/)
 - Social sharing (Twitter, Instagram, Facebook)
 
 
