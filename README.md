@@ -50,7 +50,7 @@ Feel free to share these with the world. It's all in your hands, but remember...
 
 Styling is done using [Styled Components](https://www.styled-components.com).
 
-## Contributing 🙌🏾
+## Contributing 🤜🏾🤛🏾
 
 I came up with the idea after thinking about what it was I wanted to submit to [Recurse Center](https://recurse.com) as part of my application for one of their 12-week retreats. I'm totally open for pull requests with bug fixes, changes in documentation, or new features to the app.
 
