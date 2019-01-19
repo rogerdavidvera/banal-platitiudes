@@ -34,12 +34,21 @@ Feel free to share these with the world. It's all in your hands, but remember...
 
 >With great power comes great responsibility 🕷
 
-## Features
-- [React](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+## Features 
+- [React](https://reactjs.org/): A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 - Responsive Design
-- Icons from [Font-Awesome](https://github.com/FortAwesome/Font-Awesome/)
+- Icons from [Font Awesome](https://fontawesome.com/)
 - Social sharing (Twitter, Instagram, Facebook)
 
+## Tech Stack
+
+#### Built With
+
+- [create-react-app](https://github.com/facebook/create-react-app)
+
+#### Styling 
+
+Styling is done using [Styled Components](https://www.styled-components.com).
 
 ## Contributing
 
