@@ -14,9 +14,13 @@ We managed to get over our respective plights by the only ways we knew how: long
 
 In providing comfort to each other (because that's what best friends are for ❤️), we would often find ourselves laughing at our accidental, but frequent assertions of some of the most banal platitudes we knew. We liked seeing who could out do each other. Joaqy and I would often tie.
 
->Everything always works out in the end
+>Everything happens for a reason
 
 >What’s done is done
+
+>It is what it is
+
+>Better late than never
 
 >Time heals all wounds
 
