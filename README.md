@@ -43,4 +43,4 @@ I came with the idea after thinking what I wanted to submit to [Recurse Center](
 
 ## License
 
-MIT
+[MIT](./LICENSE)
