@@ -37,10 +37,10 @@ Feel free to share these with the world. It's all in your hands, but remember...
 - Social sharing (Twitter, Instagram, Facebook)
 
 
-## Contributing 💪
+## Contributing
 
 I came with the idea after thinking what I wanted to submit to [Recurse Center](https://recurse.com) as part of my application to one of their 12-week retreats. I'm totally open for pull requests with bug fixes, changes in documentation, or new features to the app.
 
-## License 📝
+## License
 
-MIT.
+MIT
