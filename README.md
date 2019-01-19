@@ -6,7 +6,7 @@
 In the latter half of 2018, my best friends Joaqy, Alex, and I all took a lot of L's.
 
 ### What do you mean by "take an L"? 🧐
->"to take an unfortuante loss and turn of events" - Source: [Urban Dictionary](https://www.urbandictionary.com/define.php?term=took%20an%20L)
+>"to take an unfortuanate loss and turn of events" - Source: [Urban Dictionary](https://www.urbandictionary.com/define.php?term=took%20an%20L)
 
 We managed to get over our respective plights by the only ways we knew how: long chats on the phone, feral humor, trips to [Beverly's](http://beverlys.nyc/), and long nights out sometimes followed by a regretful Uber ride back home to Jersey.
 
