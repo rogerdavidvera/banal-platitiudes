@@ -1,16 +1,16 @@
 # Banal Platitudes
 >A web app that generates images superimposed with only the most typical and tiresome banal platitudes from the English language.
 
-## Why? 
+## Why? 🤔
 
 In the latter half of 2018, my best friends Joaqy, Alex, and I all took a lot of L's.
 
-### What do you mean by "take an L"?
+### What do you mean by "take an L"? 🧐
 >"to take an unfortuante loss and turn of events" - Source: [Urban Dictionary](https://www.urbandictionary.com/define.php?term=took%20an%20L)
 
 We managed to get over our respective plights by the only ways we knew how: long chats on the phone, feral humor, trips to [Beverly's](http://beverlys.nyc/), and long nights out sometimes followed by a regretful Uber ride back home to Jersey.
 
-### Everything happens for a reason
+### Everything happens for a reason 🧙‍♂️
 
 In providing comfort to each other (because that's what best friends are for ❤️), we would often find ourselves laughing at our accidental, but frequent assertions of some of the most banal platitudes we knew. We liked seeing who could out do each other. Joaqy and I would often tie.
 
