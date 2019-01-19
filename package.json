@@ -1,0 +1,19 @@
+{
+  "name": "banal-platitiudes",
+  "version": "1.0.0",
+  "description": "A web app that generates images superimposed with only the most typical and tiresome banal platitudes from the English language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerdavidvera/banal-platitiudes.git"
+  },
+  "author": "Roger David Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerdavidvera/banal-platitiudes/issues"
+  },
+  "homepage": "https://github.com/rogerdavidvera/banal-platitiudes#readme"
+}
