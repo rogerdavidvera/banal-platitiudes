@@ -38,6 +38,7 @@ Feel free to share these with the world. It's all in your hands, but remember...
 - Responsive Design
 - Icons from [Font Awesome](https://fontawesome.com/)
 - Social sharing (Twitter, Instagram, Facebook)
+- Tested with JEST
 
 ## Tech Stack 🥞
 
